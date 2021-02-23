@@ -1,7 +1,7 @@
 """
 -------------------------------------------------------------------------------
 Name:   problem2.py
-Purpose:  a description of your program
+Purpose:  Takes three values and decides whether the figure is a triangle or not.
  
 Author: Ku.T
  
