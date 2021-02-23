@@ -17,7 +17,7 @@ second_side = int(input("Enter the length of the second side: "))
 third_side = int(input("Enter the length of the third side: "))
 
 #If statements bunched together
-if first_side + second_side > third_side or second_side + third_side > first_side or third_side + first_side > second_side:
+if first_side + second_side > third_side and second_side + third_side > first_side and third_side + first_side > second_side:
   print("The figure is a triangle.")
 
 else:
